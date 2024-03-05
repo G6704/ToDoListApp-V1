@@ -19,7 +19,6 @@ function AppHeader() {
   return (
     <div className={styles.appHeader}>
       <div className={styles.headerInfo}>
-        <h1>ToDo list app. Had problem with Node.js</h1>
         <p>Galih Putra Aditama</p>
         <p>2602227421</p>
         {/* Add more information as needed */}
